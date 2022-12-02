@@ -12,6 +12,7 @@ service
 
   
 <p align="center">  
+      <image src= "https://github.com/SAM-OCHU/Kibalanga-Deploy/blob/main/Main/Image/-5947027635093750948_120.jpg"
     <h1 align="center">Kibalanga Whatsapp bot</h1>
   </a>
 </p>
