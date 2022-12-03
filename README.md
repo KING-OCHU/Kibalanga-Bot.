@@ -29,7 +29,9 @@ service
 
 ---
   <p align="center"> Introducing SamTech, SamTech is designed to bring a whole new level of excitement to your boring WhatsApp use. </p>
+
 ---
+
 ## Deployment Method 
 - Step by step
 1. Click [SCAN](        ) and scan QR code. `Whatapp>Three dots>Linked Devices`
