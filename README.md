@@ -29,17 +29,17 @@ service
 
 ---
   <p align="center"> Introducing SamTech, SamTech is designed to bring a whole new level of excitement to your boring WhatsApp use. </p>
- 
-## Deployment Method 
 ---
+## Deployment Method 
+- Step by step
 1. Click [SCAN](        ) and scan QR code. `Whatapp>Three dots>Linked Devices`
 2. You will get a session id in whatsapp, copy id only.
-3. Grab a Mongodb uri from [Mongodb](https://signup.mongodb.com) for more instructions check yt video [Youtube Video](https://youtu.be/4u0uv3IiAAc).
-4. Click [FORK](https://github.com/SamPandey001/Secktor-MD/fork)
-7. [![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://secktorbot.me/koyeb)
+3. Grab a Mongodb uri from [Mongodb](https://signup.mongodb.com)
+4. Click [FORK](https://github.com/SAM-OCHU/Kibalanga-Bot/fork)
+7. [![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://Kibalanga-bot.me/koyeb)
 8. [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/hbw5a1?referralCode=okazYt)
-9. Deploy in any [shell including Termux](https://github.com/SAM-OCHUU/Samtech-Deploy#deploy-in-any-shell-including-termux)
-
+9. Deploy in any [shell including Termux](https://github.com/SAM-OCHUU/Kibalanga-Deploy#deploy-in-any-shell-including-termux)
+---
 
 ---
 - More info about [SamTech](https://kibalanga-bot.me/).
