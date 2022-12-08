@@ -34,13 +34,12 @@ service
 
 ## Deployment Method 
 - Step by step
-1. Click [SCAN](        ) and scan QR code. `Whatapp>Three dots>Linked Devices`
+1. Click [SCAN](https://Kibalangabot.tech) and scan QR code. `Whatapp>Three dots>Linked Devices`
 2. You will get a session id in whatsapp, copy id only.
 3. Grab a Mongodb uri from [Mongodb](https://signup.mongodb.com)
 4. Click [FORK](https://github.com/SAM-OCHU/Kibalanga-Bot/fork)
-7. [![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://Kibalangabot.me/koyeb)
-8. [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/)
-9. Deploy in any [shell including Termux](https://github.com/SAM-OCHUU/Kibalanga-Deploy#deploy-in-any-shell-including-termux)
+5. [![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://https://Kibalangabot.me/koyeb)
+6. Deploy in any [shell including Termux](https://github.com/SAM-OCHUU/Kibalanga-Deploy#deploy-in-any-shell-including-termux)
 ---
 
 ---
