@@ -1,5 +1,5 @@
 
-# SAM TECH BOT
+# BOT POWER BY SAM OCHU TECHNOLOGY BRAND
 
 ---
 
@@ -34,7 +34,7 @@ service
 
 ## Deployment Method 
 - Step by step
-1. Click [SCAN](https://Kibalangabot.tech) and scan QR code. `Whatapp>Three dots>Linked Devices`
+1. Click [SCAN](https://Sektorbot.tech) and scan QR code. `Whatapp>Three dots>Linked Devices`
 2. You will get a session id in whatsapp, copy id only.
 3. Grab a Mongodb uri from [Mongodb](https://signup.mongodb.com)
 4. Click [FORK](https://github.com/SAM-OCHU/Kibalanga-Bot/fork)
@@ -52,6 +52,7 @@ service
 ### Thanks To my bro
 
 - [ALKADO](https://t.me/alk) for support
+- [FEARLESS](https://wa.me/254) for support
 
 ## Thank
 ---
