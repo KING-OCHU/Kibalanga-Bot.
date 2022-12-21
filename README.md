@@ -12,7 +12,7 @@ service
 
   
 <p align="center">  
-      <image src= "lib/assets/Socialthumb.jpg"
+      <image src= "lib/assets/SGN_12_17_2022_1671264530426_1.png"
     <h1 align="center">Kibalanga Whatsapp bot</h1>
   </a>
 </p>
