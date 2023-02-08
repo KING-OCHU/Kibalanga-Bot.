@@ -52,7 +52,7 @@ service
 ### Thanks To my bro
 
 - [ALKADO](https://t.me/alk) for support
-- [FEARLESS](https://github.com/Frankmwangi2000) for support
+- [Franklin Macharia](https://github.com/Frankmwangi2000) for support
 
 ## Thank
 ---
