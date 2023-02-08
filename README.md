@@ -4,7 +4,7 @@
 ---
 
 -  A whatsapp bot for free
--  Enjoy SAM OCHU TECHNOLOGY BRAND
+-  Enjoy SAM TECHNOLOGY BRAND
 service
 
 
@@ -52,7 +52,7 @@ service
 ### Thanks To my bro
 
 - [ALKADO](https://t.me/alk) for support
-- [FEARLESS](https://wa.me/254) for support
+- [FEARLESS](https://github.com/Frankmwangi2000) for support
 
 ## Thank
 ---
