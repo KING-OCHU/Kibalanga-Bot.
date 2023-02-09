@@ -38,7 +38,7 @@ service
 2. You will get a session id in whatsapp, copy id only.
 3. Grab a Mongodb uri from [Mongodb](https://signup.mongodb.com)
 4. Click [FORK](https://github.com/SAM-OCHU/Kibalanga-Bot/fork)
-5. [![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://https://8c670b33-b3d3-4b0e-99e4-eacab9fb31c2.cname.koyeb.app)
+5. [![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://8c670b33-b3d3-4b0e-99e4-eacab9fb31c2.cname.koyeb.app)
 6. Deploy in any [shell including Termux](https://github.com/SAM-OCHUU/Kibalanga-Deploy#deploy-in-any-shell-including-termux)
 ---
 
