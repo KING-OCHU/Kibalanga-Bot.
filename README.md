@@ -19,7 +19,7 @@ service
    
 <p align="center">
 
-  <a aria-label="Join our chats" href="https://chat.whatsapp.com/K0GL5dwzOJD4pQUOhKruRd" target="_blank">
+  <a aria-label="Join our chats" href="https://chat.whatsapp.com/HKE17CHXhskLGprk2hhPZ0" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
  
@@ -44,7 +44,7 @@ service
 ---
 - More info about [Kibalanga](https://kibalangabottz.rf.gd/).
 
-- SUPPORT GROUP: <a href="https://chat.whatsapp.com/B6JB9JD6MnhEyhUL4EIN7G"><img alt="WhatsApp" src="https://camo.githubusercontent.com/2157131829ac512183ee8f8b6c6f803688a4cc66a2e686602844e80478401a7c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6f696e2047726f75702d3235443336363f7374796c653d666f722d7468652d6261646765266c6f676f3d7768617473617070266c6f676f436f6c6f723d7768697465"/></a>
+- SUPPORT GROUP: <a href="https://chat.whatsapp.com/HKE17CHXhskLGprk2hhPZ0"><img alt="WhatsApp" src="https://camo.githubusercontent.com/2157131829ac512183ee8f8b6c6f803688a4cc66a2e686602844e80478401a7c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6f696e2047726f75702d3235443336363f7374796c653d666f722d7468652d6261646765266c6f676f3d7768617473617070266c6f676f436f6c6f723d7768697465"/></a>
 
 - Star ⭐ repo if you like kibalanga-bot.
 ---
