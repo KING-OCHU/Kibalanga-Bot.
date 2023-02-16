@@ -54,6 +54,5 @@ service
 
 - [Franklin Macharia](https://github.com/Frankmwangi2000) for support
 
-## BOT POWER BY 
-SAM TECHNOLOGY BRAND 
+## BOT POWER BY SAM TECHNOLOGY BRAND 
 ---
