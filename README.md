@@ -38,12 +38,11 @@ service
 2. You will get a session id in whatsapp, copy id only.
 3. Grab a Mongodb uri from [Mongodb](https://signup.mongodb.com)
 4. Click [FORK](https://github.com/SAM-OCHU/Kibalanga-Bot/fork)
-5. [![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://secktoruserbot.onrender.com/koyeb)
-6. Deploy in any [shell including Termux](https://github.com/SAM-OCHUU/Kibalanga-Deploy#deploy-in-any-shell-including-termux)
+5. [![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](http://Kibalanga-Bot.rf.gd)
 ---
 
 ---
-- More info about [Kibalanga](https://kibalanga-bot.me/).
+- More info about [Kibalanga](https://kibalangabottz.rf.gd/).
 
 - SUPPORT GROUP: <a href="https://chat.whatsapp.com/B6JB9JD6MnhEyhUL4EIN7G"><img alt="WhatsApp" src="https://camo.githubusercontent.com/2157131829ac512183ee8f8b6c6f803688a4cc66a2e686602844e80478401a7c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6f696e2047726f75702d3235443336363f7374796c653d666f722d7468652d6261646765266c6f676f3d7768617473617070266c6f676f436f6c6f723d7768697465"/></a>
 
@@ -51,7 +50,6 @@ service
 ---
 ### Thanks To my bro
 
-- [ALKADO](https://t.me/alk) for support
 - [Franklin Macharia](https://github.com/Frankmwangi2000) for support
 
 ## Thank
