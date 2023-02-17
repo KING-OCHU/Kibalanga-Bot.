@@ -17,7 +17,7 @@ cmd({
         pattern: "chat",
         desc: "chat with an AI",
         category: "general",
-        use: '<Hii,Secktor>',
+        use: '<Hii,Kibalanga>',
         filename: __filename,
     },
     async(Void, citel,text) => {
