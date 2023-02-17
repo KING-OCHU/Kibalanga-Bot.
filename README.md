@@ -1,64 +1,55 @@
-<p align="center">
-<a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=Welcome+Kibalanga-Bot" alt="">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=Deploy+now" alt="">
-</p>
-
-
----
-
--  A whatsapp bot for free
--  Enjoy SAM TECHNOLOGY BRAND
-service
-
-
----
-
-  
-<p align="center">  
-      <image src= "lib/assets/SGN_12_17_2022_1671264530426_1.png"
-    <h1 align="center">Kibalanga Whatsapp bot</h1>
+  <p align="center">  
+  <a href="https://secktoruserbot.onrender.com/">
+    <img alt="secktor docs" height="300" src="https://secktoruserbot.onrender.com//main.jpg">
+    <h1 align="center">Secktor MD Whatsapp bot</h1>
   </a>
 </p>
    
 <p align="center">
 
-  <a aria-label="Join our chats" href="https://chat.whatsapp.com/HKE17CHXhskLGprk2hhPZ0" target="_blank">
+  <a aria-label="Join our chats" href="https://chat.whatsapp.com/Fo5bT3lQSF53NfJp0u9BqJ" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
  
-  
+  <a aria-label="Secktor is free to use" href="https://github.com/SamPandey001/Secktor-Md/blob/main/LICENCE" target="_blank">
+    <img alt="License: GPL-3" src="https://badges.frapsoft.com/os/gpl/gpl.png?v=103)](https://opensource.org/licenses/GPL-3.0/" target="_blank" />
+  </a>
 </p>
 
 
 ---
-  <p align="center"> Introducing Kibalanga, Kibalanga is bot from Tz that designed to bring a whole new level of excitement to your boring WhatsApp use. </p>
 
+<p align="center"><img src="https://profile-counter.glitch.me/{SamPandey001}/count.svg" alt="SamPandey001 :: Visitor's Count" /></p>
+
+  <p align="center"> Introducing Secktor,Secktor is designed to bring a whole new level of excitement to your boring WhatsApp use. </p
+ 
+- Install [External Plugins](https://github.com/SamPandey001/Secktor-Plugins)
+## Deployment Methods
 ---
+1. ***Get [SESSION-ID](https://secktoruserbot.onrender.com/) by scanning QR code. `Whatapp>Three dots>Linked Devices`***
+2.  ***Get a Mongodb uri from [Mongodb](https://github.com/SamPandey001/Secktor-Md/wiki/Mongodb-URI) | [Tutorial](https://www.youtube.com/watch?v=WWrpBCBlyuo).***
+3.  ***Click [FORK](https://github.com/SamPandey001/Secktor-MD/fork)***
+4.  ***Deploy on [Heroku](https://secktoruserbot.onrender.com/heroku)***
 
-## Deployment Method 
-- Step by step
-1. Click [SCAN](https://replit.com/@SAM-OCHU/Kibalanga) and scan QR code. `Whatapp>Three dots>Linked Devices`
-2. You will get a session id in whatsapp, copy id only.
-3. Grab a Mongodb uri from [Mongodb](https://signup.mongodb.com)
-4. Click [FORK](https://github.com/SAM-OCHU/Kibalanga-Bot/fork)
-5. [![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](http://Kibalanga-Bot.rf.gd/keyob.html)
-6. [![Deploy on Mogenius](https://www.studio.mogenious.com/static/images/deploy/button.svg)](https://studio.mogenius.com/)
-7. [![Deploy on heroku](https://www.heroku.com/static/images/deploy/button.svg)](https://heroku.com/deploy?template=)
-8. [![Deploy on Replit](https://www.replit.com/static/images/deploy/button.svg)](https://replit.com)
-9. [![Deploy on Uffizzi](https://www.uffizzi.com/static/images/deploy/button.svg)](https://www.uffizzi.com/)
+5. ***[Deploy on Koyeb](https://secktoruserbot.onrender.com/koyeb)*** .
 
+6.  ***[Deploy on Railway](https://secktoruserbot.onrender.com/railway)***
+7. ***[Deploy on MOGENIOUS](https://github.com/SamPandey001/Secktor-Md/wiki/Deploy-on-MOGENIOUS)***
+  
+8. ***Deploy in [Linux](https://github.com/SamPandey001/Secktor-Deploy#deploy-in-any-shell-including-termux)***
+
+9. if you get error in doing above try, [Deploy on VPS or PC.](https://github.com/SamPandey001/Secktor-Md/blob/main/deploy-on-vps.md)
 ---
+10. More info about [Secktor](https://secktoruserbot.onrender.com/).
+11. Deploy tutorial [Youtube Video](https://secktoruserbot.onrender.com/youtube).
 
----
-- More info about [Kibalanga](https://kibalanga-bot.rf.gd/Index.html).
+12. SUPPORT GROUP: <a href="https://chat.whatsapp.com/Fo5bT3lQSF53NfJp0u9BqJ"><img alt="WhatsApp" src="https://camo.githubusercontent.com/2157131829ac512183ee8f8b6c6f803688a4cc66a2e686602844e80478401a7c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6f696e2047726f75702d3235443336363f7374796c653d666f722d7468652d6261646765266c6f676f3d7768617473617070266c6f676f436f6c6f723d7768697465"/></a>
 
-- SUPPORT GROUP: <a href="https://chat.whatsapp.com/HKE17CHXhskLGprk2hhPZ0"><img alt="WhatsApp" src="https://camo.githubusercontent.com/2157131829ac512183ee8f8b6c6f803688a4cc66a2e686602844e80478401a7c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6f696e2047726f75702d3235443336363f7374796c653d666f722d7468652d6261646765266c6f676f3d7768617473617070266c6f676f436f6c6f723d7768697465"/></a>
+- Star ⭐ repo if you like Secktor.
+### Thanks To
 
-- Star ⭐ repo if you like kibalanga-bot.
----
-### Thanks To my bro
+- [Yusuf Usta](https://github.com/yusufusta) for Ideas
 
-- [Franklin Macharia](https://github.com/Frankmwangi2000) for support
+## License
 
-## BOT POWER BY SAM TECHNOLOGY BRAND 
----
+The Secktor is made available under the [GPL-3 license](https://github.com/SamPandey001/Secktor-Md/blob/main/LICENCE). 
