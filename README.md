@@ -41,11 +41,8 @@ service
 2. You will get a session id in whatsapp, copy id only.
 3. Grab a Mongodb uri from [Mongodb](https://signup.mongodb.com)
 4. Click [FORK](https://github.com/SAM-OCHU/Kibalanga-Bot/fork)
-5. [![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](http://Kibalanga-Bot.rf.gd/keyob.html)
-6. [![Deploy on Mogenius](https://www.studio.mogenious.com/static/images/deploy/button.svg)](https://studio.mogenius.com/)
-7. [![Deploy on heroku](https://www.heroku.com/static/images/deploy/button.svg)](https://heroku.com/deploy?template=)
-8. [![Deploy on Replit](https://www.replit.com/static/images/deploy/button.svg)](https://replit.com)
-9. [![Deploy on Uffizzi](https://www.uffizzi.com/static/images/deploy/button.svg)](https://www.uffizzi.com/)
+5. [![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)]("https://app.koyeb.com/apps/deploy?type=docker&image=quay.io/SAM-OCHU/koyeb-beta:latest&env[SESSION_ID]&env[OWNER_NUMBER]&env[MONGODB_URI]&&env[OWNER_NAME]&env[KOYEB_API]&env[PREFIX]=.&env[THUMB_IMAGE]=https://github.com/SAM-OCHU/Kibalanga-Bot/blob/main/lib/assets/SGN_12_17_2022_1671264530426_1.png&env[email]=sam@secktor.live&env[global_url]=instagram.com&env[FAKE_COUNTRY_CODE]=972&env[READ_MESSAGE]=false&env[DISABLE_PM]=false&env[WORKTYPE]=public&env[THEME]=GENOS&env[PACK_INFO]=Sam;Pandey&name=secktorbot&env[KOYEB_NAME]=secktorbot&env[ANTILINK_VALUES]=chat.whatsapp.com&env[PORT]=8000')")
+
 
 ---
 
